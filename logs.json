@@ -1,0 +1,72 @@
+gs://dev_visual_search/ :
+	Storage class:			REGIONAL
+	Location constraint:		EUROPE-WEST1
+	Versioning enabled:		None
+	Logging configuration:		None
+	Website configuration:		None
+	CORS configuration: 		None
+	Lifecycle configuration:	None
+	Requester Pays enabled:		None
+	Labels:				None
+	Time created:			Mon, 29 Jan 2018 19:28:49 GMT
+	Time updated:			Fri, 16 Feb 2018 15:56:18 GMT
+	Metageneration:			10
+	ACL:				
+	  [
+	    {
+	      "entity": "project-editors-204181817521",
+	      "projectTeam": {
+	        "projectNumber": "204181817521",
+	        "team": "editors"
+	      },
+	      "role": "OWNER"
+	    },
+	    {
+	      "entity": "project-owners-204181817521",
+	      "projectTeam": {
+	        "projectNumber": "204181817521",
+	        "team": "owners"
+	      },
+	      "role": "OWNER"
+	    },
+	    {
+	      "email": "fisci-dev@ecg-fisci.iam.gserviceaccount.com",
+	      "entity": "user-fisci-dev@ecg-fisci.iam.gserviceaccount.com",
+	      "role": "OWNER"
+	    },
+	    {
+	      "entity": "project-viewers-204181817521",
+	      "projectTeam": {
+	        "projectNumber": "204181817521",
+	        "team": "viewers"
+	      },
+	      "role": "READER"
+	    }
+	  ]
+	Default ACL:			
+	  [
+	    {
+	      "entity": "project-owners-204181817521",
+	      "projectTeam": {
+	        "projectNumber": "204181817521",
+	        "team": "owners"
+	      },
+	      "role": "OWNER"
+	    },
+	    {
+	      "entity": "project-editors-204181817521",
+	      "projectTeam": {
+	        "projectNumber": "204181817521",
+	        "team": "editors"
+	      },
+	      "role": "OWNER"
+	    },
+	    {
+	      "entity": "project-viewers-204181817521",
+	      "projectTeam": {
+	        "projectNumber": "204181817521",
+	        "team": "viewers"
+	      },
+	      "role": "READER"
+	    }
+	  ]

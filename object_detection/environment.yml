@@ -1,0 +1,18 @@
+name: image-search-poc-object-detection
+dependencies:
+- python=2.7
+- pip
+- pip:
+  - toolz==0.9.0
+  - h5py==2.7.1
+  - ujson==1.35
+  - Keras==2.1.2
+  - matplotlib==2.1.0
+  - numpy==1.13.3
+  - Pillow==4.3.0
+  - scikit-image==0.13.1
+  - scikit-learn==0.19.1
+  - scipy==1.0.0
+  - six==1.11.0
+  - tensorflow-gpu==1.1.0
+  - simplejson==3.13.2

@@ -1,0 +1,5 @@
+*.h5
+training/tmp
+../.idea/
+./idea
+*.pyc
