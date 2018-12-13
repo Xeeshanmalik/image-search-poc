@@ -9,7 +9,7 @@
     
     Save the files inside ${ProjectFolder}/devkit/
 
-2. #####Data Preparation
+2. <strong>Data Preparation</strong>
     1. cd data-preparation
     2. source activate image-search-poc-data-preparation
     3. python prepare-stanford-car-dataset.py 
@@ -28,4 +28,4 @@
     '>' ../devkit/by-id/01/test-stats.json
     
 
-![Alt text](display/00620_original.jpg?raw=true "Original") ![Alt text](display/00620_thumbnail.jpg?raw=true "Thumbnail") ![Alt text](display/00620_segmentation.jpg?raw=true "Segmentation") 
+![Alt text](display/00620_original.jpg?raw=true "Original") ![Alt text](display/00620_thumbnails.jpg?raw=true "Thumbnail") ![Alt text](display/00620_boundingbox.jpg?raw=true "Original") ![Alt text](display/00620_segmentation.jpg?raw=true "Segmentation") ->  Training 
