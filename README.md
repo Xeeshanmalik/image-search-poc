@@ -15,8 +15,7 @@
     3. python prepare-stanford-car-dataset.py 
     --cars_meta ../devkit/cars_meta.mat 
     --cars_annos ../devkit/cars_train_annos.mat 
-    '>' ../devkit/by-id/01/dataset.json
-    Note: Remove the quotes from '>'
+    '> ../devkit/by-id/01/dataset.json
     
     4. python split.py 
     --train_set_path ../devkit/by-id/01/train.json 
