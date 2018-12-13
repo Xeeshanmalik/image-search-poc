@@ -28,4 +28,4 @@
     '>' ../devkit/by-id/01/test-stats.json
     
 
-![alt text](https://github.com/Xeeshanmalik/image-search-poc/blob/master/display/00620_segmentation.jpg
+![Alt text](display/00620_original.jpg?raw=true "Segmentation") ![Alt text](display/00620_thumbnail.jpg?raw=true "Segmentation") ![Alt text](display/00620_segmentation.jpg?raw=true "Segmentation") 
