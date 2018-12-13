@@ -27,4 +27,5 @@
     <../devkit/by-id/01/test.json 
     '>' ../devkit/by-id/01/test-stats.json
     
-3.  
+
+![alt text](https://github.com/Xeeshanmalik/image-search-poc/blob/master/display/00620_segmentation.jpg
