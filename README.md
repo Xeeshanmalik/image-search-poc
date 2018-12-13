@@ -28,4 +28,4 @@
     '>' ../devkit/by-id/01/test-stats.json
     
 
-![Alt text](display/00620_original.jpg?raw=true "Segmentation") ![Alt text](display/00620_thumbnail.jpg?raw=true "Segmentation") ![Alt text](display/00620_segmentation.jpg?raw=true "Segmentation") 
+![Alt text](display/00620_original.jpg?raw=true "Original") ![Alt text](display/00620_thumbnail.jpg?raw=true "Thumbnail") ![Alt text](display/00620_segmentation.jpg?raw=true "Segmentation") 
